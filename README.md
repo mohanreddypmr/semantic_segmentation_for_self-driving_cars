@@ -4,7 +4,7 @@ semantic segmentation of images for self driving cars using segnet model with ci
 Semantic segmentation is the task of assigning a class to every pixel in a given image.
 # Model Architecture
 ## segnet
-
+![model architecture image](./segnet)
 
 # dataset
  https://www.kaggle.com/dansbecker/cityscapes-image-pairs
